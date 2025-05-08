@@ -6,3 +6,4 @@ Netflix = Tableau dashboard about Netflix films and TV shows ( https://public.ta
 Performance Report = Power BI dashboard
 Survey = Power BI dashboard
 Youtube views = project about gathering, cleaning,processing and visualizing data (Using Jupyter Notebook and Python)
+KingCountyHouseSales = Tableau project about house pricing ( https://public.tableau.com/views/KingCoutyHouseSales_17466898127450/KingCountyHouseSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link )
